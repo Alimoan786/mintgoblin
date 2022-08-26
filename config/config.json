@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA4A0E2C98bB577b4c3C6f614C36Ae609d392E7B5",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA4A0E2C98bB577b4c3C6f614C36Ae609d392E7B5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Goblin Heist",
+  "SYMBOL": "GoblinHeist",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2500000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goblin-heist",
+  "SHOW_BACKGROUND": true 
+}
